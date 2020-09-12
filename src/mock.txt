@@ -1,0 +1,16 @@
+      {/* <CurrencyFormat
+        renderText={(value) => { */}
+
+
+
+;{/* // </small>
+
+
+      ;{/* <small className="subtotal__gift"> */}
+}} */}
+// decimalScale={2}
+// value={0}
+// displayType={"text"}
+// thousandSeperator={true}
+// prefix={"$"}
+/>
